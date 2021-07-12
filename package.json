@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "nan": "^2.14.2",
-    "node-pre-gyp": "^0.10.3"
+    "@mapbox/node-pre-gyp": "^1.0.5"
   },
   "devDependencies": {
     "@turf/difference": "^6.2.0",
